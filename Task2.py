@@ -1,8 +1,8 @@
 # Задайте натуральное число N. Напишите программу, которая составит список простых множителей числа N.
 
-import os
+
 import random
-os.system('cls')
+
 
 def simple_mult(n):
     simple_mult_list = []
